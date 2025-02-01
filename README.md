@@ -1,4 +1,4 @@
-# Video Watermark Removal
+# Video Watermark Removal!
 
 This repository contains code to help remove watermarks from videos. For Shutterstock videos, it's ready-to-go out of the box - good for datasets such as WebVid.
 
